@@ -1,5 +1,6 @@
 
-#   User stories and their acceptance criteria
+                         #   User stories and their acceptance criteria
+
 1.  Account Management
    * As a new customer, I want to register, so I can make purchases. 
      * AC: New customers can enter their details and create a new account. 
