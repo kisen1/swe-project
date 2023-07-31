@@ -1,6 +1,6 @@
-CS425 - Software Engineering - final Project 
+# CS425 - Software Engineering - final Project 
                        
-                       # Webshop Statment of Problem Description
+## Webshop Statment of Problem Description
                        
 The company WSC (We Sell Cheap) wants to sell products over the Internet. So we need to develop a
 webshop where customers can buy products online. WSC sells various products, from books to
