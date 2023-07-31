@@ -1,4 +1,4 @@
-                                 # WSC WebShop Main Scenario:
+# WSC WebShop Main Scenario:
 
 1. Customers who visit the WSC WebShop website are directed to the home page, where they are greeted with a user-friendly interface displaying featured products and promotions. 
 
